@@ -1,18 +1,18 @@
 {
   "lectures": [
     {
-      "LectureID": 230022, 
-      "LectureStartDate": "2019-10-05T11:15:00.000Z", 
-      "LectureEndDate": "2019-10-05T12:00:00.000Z", 
-      "GroupName": "NV3C Matematik 1", 
-      "Place": "Sal 1"
+      "lectureID": 230022, 
+      "lectureStartDate": "2019-10-05T11:15:00.000Z", 
+      "lectureEndDate": "2019-10-05T12:00:00.000Z", 
+      "groupName": "NV3C Matematik 1", 
+      "place": "Sal 1"
     }, 
     {
-      "LectureID": 230706, 
-      "LectureStartDate": "2019-10-05T10:15:00.000Z", 
-      "LectureEndDate": "2019-10-05T11:00:00.000Z", 
-      "GroupName": "NV3B Matematik 1", 
-      "Place": "Sal 2"
+      "lectureID": 230706, 
+      "lectureStartDate": "2019-10-05T10:15:00.000Z", 
+      "lectureEndDate": "2019-10-05T11:00:00.000Z", 
+      "groupName": "NV3B Matematik 1", 
+      "place": "Sal 2"
 }]
 
 }
