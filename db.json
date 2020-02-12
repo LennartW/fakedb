@@ -13,6 +13,21 @@
       "lectureEndDate": "2019-10-05T11:00:00.000Z", 
       "groupName": "NV3B Matematik 1", 
       "place": "Sal 2"
-}]
+    },
+    {
+      "lectureID": "230044", 
+      "lectureStartDate": "2019-11-05T11:15:00.000Z", 
+      "lectureEndDate": "2019-11-05T12:00:00.000Z", 
+      "groupName": "NV3C Svenska 1", 
+      "place": "Sal 3"
+    }, 
+    {
+      "lectureID": "230886", 
+      "lectureStartDate": "2019-11-05T10:15:00.000Z", 
+      "lectureEndDate": "2019-11-05T11:00:00.000Z", 
+      "groupName": "NV3B Svenska 1", 
+      "place": "Sal 4"
+    }
 
+  ]
 }
